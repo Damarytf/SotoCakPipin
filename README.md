@@ -1,0 +1,2 @@
+# SotoCakPipin
+Project ETS BAHASA PEMROGRAMAN 2 
